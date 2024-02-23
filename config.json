@@ -1,0 +1,10 @@
+{
+"projects": [
+  {
+    "name": "public-app-getting-started-template",
+    "label": "Public app getting started project",
+    "path": "public-app-getting-started-template",
+    "insertPath": "./"
+  }
+]
+}
