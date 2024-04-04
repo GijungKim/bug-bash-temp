@@ -2,7 +2,7 @@
   "name": "Getting Started App",
   "uid": "getting-started-app-uid",
   "description": "An example project of how to build a Public App with Developer Projects",
-  "approvedExternalUrls": [
+  "allowedUrls": [
     "https://api.your-domain.com"
   ],
   "auth": {
@@ -14,7 +14,7 @@
       "crm.objects.contacts.write"
     ],
     "optionalScopes": [],
-    "additionalScopes": []
+    "conditionallyRequiredScopes": []
   },
   "support": {
     "supportEmail": "support@example.com",
