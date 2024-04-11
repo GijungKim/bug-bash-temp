@@ -2,10 +2,6 @@
 
 This is a project containing a public app, so developers can get up and running on HubSpot Developer Projects.
 
-## Requirements
-
-TBD
-
 ## Set up
 NOTE: You need to be a super-admin in the developer account, where you will be uploading your app.
 
