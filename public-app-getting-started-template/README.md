@@ -9,7 +9,7 @@ TBD
 ## Set up
 NOTE: You need to be a super-admin in the developer account, where you will be uploading your app.
 
-1. Run hs project upload --account=<dev-acct-id> to build and deploy the project to your developer account.
+1. Run `hs project upload --account=<dev-acct-id>` to build and deploy the project to your developer account.
 2. Retrieve the install URL located in your app's auth tab.
 3. Use that install URL to install the app in a developer test account of your choice.
 ![image](https://github.com/kemmerle/hubspot-public-app-template/assets/44659712/b1d89c75-9055-4828-9e74-73e75cb29056)
