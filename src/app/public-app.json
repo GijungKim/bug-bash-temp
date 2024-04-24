@@ -20,7 +20,7 @@
     "supportEmail": "support@example.com",
     "documentationUrl": "https://example.com/docs",
     "supportUrl": "https://example.com/support",
-    "supportPhone": "1-800-555-5555"
+    "supportPhone": "+18005555555"
   },
   "extensions": {
     "crm": {
@@ -30,8 +30,5 @@
         }
       ]
     }
-  },
-  "webhook": {
-    "file": "./webhooks/webhook.json"
   }
 }
